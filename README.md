@@ -2,4 +2,4 @@
 
 New to Github repository 
 
-Teacching myself to write programs
+Teaching myself to write programs
